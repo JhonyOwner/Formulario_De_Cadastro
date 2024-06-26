@@ -1,0 +1,17 @@
+HTML (HyperText Markup Language)
+HTML é a espinha dorsal de qualquer página web. Ele define a estrutura da página e o conteúdo que será exibido. Utiliza tags para criar elementos como títulos, parágrafos, listas, links, imagens e muito mais. É uma linguagem de marcação que descreve a estrutura e o layout das páginas da web de forma que os navegadores possam ler e renderizar​.
+
+CSS (Cascading Style Sheets)
+CSS é usado para estilizar e organizar a página web. Ele permite que desenvolvedores definam cores, fontes, espaçamento, e o posicionamento de elementos na página. O CSS melhora a experiência do usuário tornando as páginas web mais atraentes e organizadas. Ele pode controlar o layout de várias páginas ao mesmo tempo, o que é uma grande vantagem para o design consistente de um site.
+
+JavaScript
+JavaScript é uma linguagem de programação que permite conteúdo interativo e dinâmico em páginas web. Ele possibilita a criação de recursos como sliders, validações de formulários e mapas interativos. O JavaScript pode manipular HTML e CSS para atualizar conteúdo, validar dados e executar várias tarefas com base nas interações do usuário, tornando as páginas mais envolventes e funcionais.
+
+Resumindo: 
+HTML: Fornece a estrutura básica dos sites, que é aprimorada e modificada por outras tecnologias como CSS e JavaScript.
+CSS: Adiciona elementos de design para tornar as páginas web visualmente atraentes e adaptáveis a diferentes dispositivos através do design responsivo.
+JavaScript: Adiciona comportamento às páginas web, possibilitando recursos complexos que podem ser executados diretamente no navegador sem necessidade de recarregar a página​.
+
+HTML cria a estrutura e o conteúdo.
+CSS estiliza e dá forma ao conteúdo.
+JavaScript adiciona funcionalidade e interatividade.
